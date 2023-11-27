@@ -280,7 +280,7 @@ a:hover, a:active, a:focus {
 }
 
 .main-home {
-  background: url('../images/Image 1.png') no-repeat;
+  background: url('../images/img.png') no-repeat;
   height: 100vh;
 }
 
@@ -289,15 +289,15 @@ a:hover, a:active, a:focus {
 }
 
 .main-single-post {
-  background: url('../images/single-post-bg.jpg') no-repeat;
+  background: url('../images/1691952868553.jpg') no-repeat;
 }
 
 .main-gallery {
-  background: url('../images/gallery-bg.jpg') no-repeat;
+  background: url('../images/1692168996479.jpg') no-repeat;
 }
 
 .main-contact {
-  background: url('../images/contact-bg.jpg') no-repeat;
+  background: url('../images/1692168975480.jpg') no-repeat;
 }
 
 #particles-js {
